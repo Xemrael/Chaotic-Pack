@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
-  ]
+      {
+        "id": "1.1.3",
+        "releasedAt": 1743704720681,
+        "updateType": "minor",
+        "promotions": {
+            "downloads": {                
+                "generic": "https://curseforge.com/"
+              }
+          }
+      }
+   ]
 }
