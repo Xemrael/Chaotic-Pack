@@ -3,7 +3,7 @@
   "hotfixesFormat": null,
   "versions": [
       {
-        "id": "1.1.4_ALPHA",
+        "id": "1.1.4_TEST",
         "releasedAt": 1743769671705,
         "updateType": "minor",
         "promotions": {
