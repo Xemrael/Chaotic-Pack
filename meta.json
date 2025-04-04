@@ -4,11 +4,11 @@
   "versions": [
       {
         "id": "1.1.4_TEST",
-        "releasedAt": 1743769671705,
+        "releasedAt": 1743771561691,
         "updateType": "minor",
         "promotions": {
             "downloads": {                
-                "generic": "https://github.com/Xemrael/Chaotic-Pack/releases/tag/1.1.4-alpha"
+                "generic": "https://github.com/Xemrael/Chaotic-Pack/releases/tag/1.1.4-TEST"
               }
           }
       }
