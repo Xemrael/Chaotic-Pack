@@ -3,12 +3,12 @@
   "hotfixesFormat": null,
   "versions": [
       {
-        "id": "1.2.0_TEST",
-        "releasedAt": 1743772013140,
+        "id": "1.2.0",
+        "releasedAt": 1743794483711,
         "updateType": "minor",
         "promotions": {
             "downloads": {                
-                "generic": "https://github.com/Xemrael/Chaotic-Pack/releases/tag/1.2.0-TEST"
+                "generic": "https://github.com/Xemrael/Chaotic-Pack/releases/tag/1.2.0"
               }
           }
       }
