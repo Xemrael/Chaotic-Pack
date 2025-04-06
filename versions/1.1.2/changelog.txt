@@ -2,49 +2,49 @@
 
 ## Added
 
--Chunk sending - Optimizes chunk packet sending through sorting and distributing them over time.
--Client crafting - client-side utility which makes crafting UI's much more responsive through eliminating the server delay.
--Connectivity - Lightweight mod which solves several connection problems like Login-Timeouts, DecoderException, Packet size limits, Ghostblock issues
--Fix GPU memory leak - A mod that fixes some bugs which leak resources within GPU memory, causing issues like these:
+- Chunk sending - Optimizes chunk packet sending through sorting and distributing them over time.
+- Client crafting - client-side utility which makes crafting UI's much more responsive through eliminating the server delay.
+- Connectivity - Lightweight mod which solves several connection problems like Login-Timeouts, DecoderException, Packet size limits, Ghostblock issues
+- Fix GPU memory leak - A mod that fixes some bugs which leak resources within GPU memory, causing issues like these:
     GL_OUT_OF_MEMORY
     GL_FRAMEBUFFER_INCOMPLETE_ATTACHMENT
     GL_INVALID_FRAMEBUFFER_OPERATION
 
--Better chunk loading - 
-    Predicts player movement and pre-loads chunks in an area ahead of them asynchronously.
+- Better chunk loading - 
+	Predicts player movement and pre-loads chunks in an area ahead of them asynchronously.
     Slightly increases chunk loading speed in general.
     Controls the vanilla chunkloading around the player by smartly adjusting the size to the player's movementspeed, reducing the server's load.
 
--AttributeFix - Minecraft uses an attribute system to handle many entity properties like max health, movement speed, and attack damage. While this system is very flexible Mojang has artifically limited many of these properties. This mod addresses this issue by significantly raising these limits to a reasonable range.
+- AttributeFix - Minecraft uses an attribute system to handle many entity properties like max health, movement speed, and attack damage. While this system is very flexible Mojang has artifically limited many of these properties. This mod addresses this issue by significantly raising these limits to a reasonable range.
 
--Random Village Names - Not only the villagers deserve names.
--Healing Campfire - Healing Campfire creates an area around the campfire where players and/or passive mobs receive the regeneration effect in a configurable radius.
--Pet Names - minimalistic configurable mod which gives tamable baby animals a pre-defined name. 
+- Random Village Names - Not only the villagers deserve names.
+- Healing Campfire - Healing Campfire creates an area around the campfire where players and/or passive mobs receive the regeneration effect in a configurable radius.
+- Pet Names - minimalistic configurable mod which gives tamable baby animals a pre-defined name. 
 
--«Chunk Pregenerator - This is an admin only use. Creates Chunks with predifined settings to be faster in world generation. Not in use until I undesrtand all it does.»
+- «Chunk Pregenerator - This is an admin only use. Creates Chunks with predifined settings to be faster in world generation. Not in use until I undesrtand all it does.»
 
 
 ## Readded
 
--BetterCompatibilityChecker - Gimmicky to solve the "Incorrect mod pack version"
+- BetterCompatibilityChecker - Gimmicky to solve the "Incorrect mod pack version"
 
 
 ## Updated
 
--moonlight-1.20-2.13.64-forge to moonlight-1.20-2.13.65-forge
--AdvancementPlaques-1.20.1-forge-1.6.7 to AdvancementPlaques-1.20.1-forge-1.6.9
--villagernames-1.20.1-8.1 to villagernames-1.20.1-8.2
--accessories-neoforge-1.0.0-beta.44+1.20.1 to accessories-neoforge-1.0.0-beta.45+1.20.1
--PeepingTom-forge-1.20.1-1.4 to PeepingTom-forge-1.20.1-1.5 - Still don't know what he is peeping at tho
--EnhancedVisuals_FORGE_v1.8.1_mc1.20.1 to EnhancedVisuals_FORGE_v1.8.2_mc1.20.1
--balm-forge-1.20.1-7.3.14-all to balm-forge-1.20.1-7.3.15-all
--polytone-1.20-3.2.6 to polytone-1.20-3.2.8
--collective-1.20.1-7.90 to collective-1.20.1-7.91
--born_in_chaos_[Forge]1.20.1_1.6.2_chilling-horror-event to born_in_chaos_[Forge]1.20.1_1.6.3
--AmbientSounds_FORGE_v6.1.4_mc1.20.1 to AmbientSounds_FORGE_v6.1.6_mc1.20.1
--betterchunkloading-1.20.1-5.2 to betterchunkloading-1.20.1-5.3
+- moonlight-1.20-2.13.64-forge to moonlight-1.20-2.13.65-forge
+- AdvancementPlaques-1.20.1-forge-1.6.7 to AdvancementPlaques-1.20.1-forge-1.6.9
+- villagernames-1.20.1-8.1 to villagernames-1.20.1-8.2
+- accessories-neoforge-1.0.0-beta.44+1.20.1 to accessories-neoforge-1.0.0-beta.45+1.20.1
+- PeepingTom-forge-1.20.1-1.4 to PeepingTom-forge-1.20.1-1.5 - Still don't know what he is peeping at tho
+- EnhancedVisuals_FORGE_v1.8.1_mc1.20.1 to EnhancedVisuals_FORGE_v1.8.2_mc1.20.1
+- balm-forge-1.20.1-7.3.14-all to balm-forge-1.20.1-7.3.15-all
+- polytone-1.20-3.2.6 to polytone-1.20-3.2.8
+- collective-1.20.1-7.90 to collective-1.20.1-7.91
+- born_in_chaos_[Forge]1.20.1_1.6.2_chilling-horror-event to born_in_chaos_[Forge]1.20.1_1.6.3
+- AmbientSounds_FORGE_v6.1.4_mc1.20.1 to AmbientSounds_FORGE_v6.1.6_mc1.20.1
+- betterchunkloading-1.20.1-5.2 to betterchunkloading-1.20.1-5.3
 
 
 ## Removed
 
--BetterVanillaBuilding_Overlays - This resource pack is intended to use with another of the same kind, was being buggy and halting performance, removed unless the resourcepack BetterVanilla gets interesting
+- BetterVanillaBuilding_Overlays - This resource pack is intended to use with another of the same kind, was being buggy and halting performance, removed unless the resourcepack BetterVanilla gets interesting
