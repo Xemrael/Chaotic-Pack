@@ -20,6 +20,7 @@
   - [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)
   - [Golems Are Friends Not Fodder](https://www.curseforge.com/minecraft/mc-mods/golemsarefriends)
   - [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
+  - [Everything is Copper](https://www.curseforge.com/minecraft/mc-mods/everythingcopper)
 
 ## Pending/Not sure, some have big changes to the game/Maybe next update
     
