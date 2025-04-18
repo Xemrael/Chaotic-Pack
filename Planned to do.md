@@ -50,4 +50,4 @@
   - [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) replaced by Particular
   - [FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree) replaced by Dynamic Trees
   - [Auto Planting Forests](https://www.curseforge.com/minecraft/mc-mods/auto-plant) replaced by Dynamic Trees
-  - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - [CarbonConfig](https://www.curseforge.com/minecraft/mc-mods/carbon-config) overlays it while being a dependy of [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator), [ForgeConfigScreens](https://www.curseforge.com/minecraft/mc-mods/config-menus-forge) overlays both, so there's no need to be installed
+  - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - [CarbonConfig](https://www.curseforge.com/minecraft/mc-mods/carbon-config) overlays it while being a dependency of [Chunk-Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator), [ForgeConfigScreens](https://www.curseforge.com/minecraft/mc-mods/config-menus-forge) overlays both, so there's no need to be installed
