@@ -1,0 +1,42 @@
+# Chaotic Pack 1.3.0
+
+## Planned to add
+
+  - Move Boats
+  - Move Minecarts
+  - Bottled Air
+  - Village Bell Recipe
+  - Fast Async World Save
+  - Better Combat
+  - Not Enough Animations
+  - Nature's Compass
+  - Ore Harvester
+  - Friends&Foes
+  - Supplementaries
+  - Memory Settings
+  - Sophisticated Backpacks
+  - Carry On
+  - Effect Descriptions
+  - Goblin Traders
+  - Golems Are Friends Not Fodder
+  - Fins and Tails
+
+## Pending/Not sure, some have big changes to the game/Maybe next update
+    
+  - Dynamic Trees
+  - Dynamic Trees for Immersive Weathering
+  - Galosphere
+  - Dynamic View (mostly server side)
+  - Ice and Fire: Dragons
+  - Eyes of Ice and Fire
+  - Mythic Mounts
+  - Upgrade Aquatic
+  - Illager Warship
+  - Realm RPG: Sea Dwellers
+  - Dynamic Surroundings
+  - Particular
+
+## Planned to remove
+
+  - Falling Leaves
+  - Auto Planting Forests
