@@ -1,5 +1,0 @@
-# Chaotic Pack
-
-## Exp!!!
-
-# Go [HERE](https://xemrael.github.io/Chaotic-Pack/)
