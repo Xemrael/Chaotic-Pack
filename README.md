@@ -16,7 +16,10 @@ Getting besides the point, for those who see this and are not my friends, sorry 
 
 Yet to have an official image or logo, so have this instead:
 
-<img src="https://github.com/user-attachments/assets/aa683709-6137-4838-9842-ce21b575aecf">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aa683709-6137-4838-9842-ce21b575aecf">
+</div>
+
   
-Check what I have planned for the future [here](https://github.com/Xemrael/Chaotic-Pack/blob/main/Planned%20to%20do.md)
+Check what I have planned for the future [here](https://xemrael.github.io/Chaotic-Pack/Planned%20to%20do)
 
