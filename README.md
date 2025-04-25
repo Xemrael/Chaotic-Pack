@@ -1,5 +1,4 @@
-# Chaotic Pack
-
+<div align="center">
 Nothing Special about this pack.
 
 Put it together to play with friends, using some of the mods we thought would be cooler, while trying to keep a Vanilla++esq gameplay and world.
@@ -15,6 +14,9 @@ Still learning a lot from Github, starting to get my hands on some code as well,
 Getting besides the point, for those who see this and are not my friends, sorry to disappoint that is just an *OkishSimplePut* together modpack, nothing extraordinary.
 
 
-Yet to have an official image or logo, so have this instead
+Yet to have an official image or logo, so have this instead:
 
-![chaos](https://github.com/user-attachments/assets/aa683709-6137-4838-9842-ce21b575aecf)
+<img src="https://github.com/user-attachments/assets/aa683709-6137-4838-9842-ce21b575aecf">
+  
+Check what I have planned for the future [here](https://github.com/Xemrael/Chaotic-Pack/blob/main/Planned%20to%20do.md)
+</div>
