@@ -2,4 +2,4 @@
 Title: Chaotic Pack
 ---
 
-[What is this?](https://github.com/Xemrael/Chaotic-Pack/blob/main/README.md)
+[What is this?](https://raw.githubusercontent.com/Xemrael/Chaotic-Pack/refs/heads/main/README.md)
