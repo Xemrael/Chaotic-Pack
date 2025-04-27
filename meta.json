@@ -25,18 +25,18 @@
             "promotions": {
                 "downloads": {
                     "generic": "https://github.com/Xemrael/Chaotic-Pack/releases/tag/1.2.0"
-				}
-			}
-		},
+                }
+            }
+        },
+        {
+            "id": "1.2.0a",
+            "releasedAt": 987654321098765,
+            "updateType": "minor"
+        },
         {
             "id": "1.3.0",
             "releasedAt": 987654321098765,
-            "updateType": "major",
-            "promotions": {
-                "downloads": {
-                    "generic": ""
-                }
-            }
+            "updateType": "major"
         }
     ]
 }
