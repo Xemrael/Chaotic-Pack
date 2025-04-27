@@ -16,7 +16,7 @@
 	- SCP-939, With Many Voices - increased spawn rate
 	- Serene Seasons
 	- Simple Voice Chat
-- [Thalasophobia](https://www.curseforge.com/minecraft/mc-mods/thalassophobia) has had a major update, new mobs and drops
+- [Thalassophobia](https://www.curseforge.com/minecraft/mc-mods/thalassophobia) has had a major update, new mobs and drops
 
 ## Changed
 
