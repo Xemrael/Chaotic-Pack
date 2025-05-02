@@ -3,7 +3,8 @@
 # Planned Changes
 
 > **Going foward the modpack will be hosted by the server itself using [AutoModpack](https://www.curseforge.com/minecraft/mc-mods/automodpack), with all of the configs, changes and updates being done from the server.
-While I still intend to put changelogs here, I am yet unsure if uploading the modpack here would continue, since this is in fact just for 3 people.**
+> This will be a better way, and almost a necessary one, to get updates as less intrusive as possible, maintaining the users options and .configs that would be reset otherwise, without the need to import a modpack everytime theres an update.
+> While I still intend to put changelogs here, I am yet unsure if uploading the modpack to github is worth it, since this is in fact just for 3 people.**
 
 * * *
 ## Chaotic Pack 1.3.0
