@@ -1,8 +1,10 @@
-# Planned Changes
+# Planned Changes  
 
-# Chaotic Pack 1.3.0
 
-## Planned to add
+## Chaotic Pack 1.3.0  
+
+
+### Planned to add
 
   - [Move Boats](https://www.curseforge.com/minecraft/mc-mods/move-boats)
   - [Move Minecarts](https://www.curseforge.com/minecraft/mc-mods/move-minecarts)
@@ -24,7 +26,7 @@
   - [Fins and Tails](https://www.curseforge.com/minecraft/mc-mods/fins-and-tails)
   - [Everything is Copper](https://www.curseforge.com/minecraft/mc-mods/everythingcopper)
 
-## Pending/Not sure, some have big changes to the game/Maybe next update
+### Pending/Not sure, some have big changes to the game/Maybe next update
     
   - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
   - [Dynamic Trees for Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-for-immersive-weathering-soils)
@@ -48,7 +50,7 @@
 - [Mobtimizations - Entity Performance Fixes](https://www.curseforge.com/minecraft/mc-mods/mobtimizations)
 - [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
 
-## Planned to remove
+### Planned to remove
 
   - [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) replaced by Particular
   - [FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree) replaced by Dynamic Trees
