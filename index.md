@@ -1,7 +1,7 @@
 ---
-Chaotic Pack
+Title: Chaotic Pack
 ---
 
-# Current Version
+# ***Current Version***
 
-# Planned Changes
+# ***Planned Changes***
