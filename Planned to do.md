@@ -1,6 +1,10 @@
 [**BACK**](https://xemrael.github.io/Chaotic-Pack/)
 
 # Planned Changes
+
+**Going foward the modpack will be hosted by the server itself, with all of the configs and changes being done from the server.
+While I still intend to put changelogs here, I am yet unsure if uploading the modpack here would continue, since this is in fact just for 3 people.**
+
 * * *
 ## Chaotic Pack 1.3.0
 * * *
