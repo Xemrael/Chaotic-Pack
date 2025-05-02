@@ -2,7 +2,7 @@
 
 # Planned Changes
 
-**Going foward the modpack will be hosted by the server itself using [AutoModpack](https://www.curseforge.com/minecraft/mc-mods/automodpack), with all of the configs, changes and updates being done from the server.
+> **Going foward the modpack will be hosted by the server itself using [AutoModpack](https://www.curseforge.com/minecraft/mc-mods/automodpack), with all of the configs, changes and updates being done from the server.
 While I still intend to put changelogs here, I am yet unsure if uploading the modpack here would continue, since this is in fact just for 3 people.**
 
 * * *
