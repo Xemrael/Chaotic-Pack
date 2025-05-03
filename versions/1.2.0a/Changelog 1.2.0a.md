@@ -1,4 +1,4 @@
-[**BACK**](https://xemrael.github.io/Chaotic-Pack/)
+[**BACK**](https://xemrael.github.io/Chaotic-Pack/Changelogs.html)
 
 # Chaotic Pack 1.2.0a
 
