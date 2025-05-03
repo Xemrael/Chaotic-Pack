@@ -1,0 +1,76 @@
+[**BACK**](https://xemrael.github.io/Chaotic-Pack/Changelogs.html)
+
+# Chaotic Pack 1.1.3 - changelog versão portuguesa?
+
+## Adicionado
+
+- Sodium/Embeddium Options Mod Compat - adds Sodium video settings for various rendering-related mods that don't have them, using Sodium Options API.
+- Sodium/Embeddium Extras - adds a lot of features to Sodium (and Embeddium on older versions) to improve the experience and performance.
+- Alguns destes novos mods novos, incluindo os atuais que substituiem o optifine em questão de performance, ainda vão estar em revisão para garantir que não se atropelam, embora um deles já faça o mesmo que outro (Rubidium Extra, ver Problemas conhecidos no fim)
+
+
+## Readicionado
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+## Actualizado
+
+- alltheleaks-0.1.2-beta+1.20.1-forge.jar - Maioritariamente fixes
+- Better villages 3.3.0
+	"Banners, item frames, and armor stands (and other similar blocks) have been reduced or removed to improve performance. A future update will further enhance performance by optimizing each houses with well-defined parameters.
+	Increased separation distances and spacing to prevent villages from being too close to each other! Additionally, a configuration option has been added, allowing you to adjust these parameters yourself. If you're using other mods that provide similar functionality, an option is available to disable our configuration and let the other mod take over. By default, our configuration is applied. This has been tested with various mods. If you encounter any issues, please contact us so we can resolve the problem quickly!"
+- entityculling-forge-1.7.3 - Fixes
+- fallingleaves-1.20.1-2.1.2.jar - sem changelog por parte do modcreator
+- ImmediatelyFast-Forge-1.5.0+1.20.4.jar
+    "Made horse armor layering fix compatible with modded horse armor
+    Added mechanism to allow resource packs with modified core shaders to declare compatible features
+    Changed the versioning of ImmediatelyFast. The minor version is now incremented with every Minecraft update. The patch version is incremented with every ImmediatelyFast release. This aims to group all releases for a specific Minecraft version together. It also allows for more frequent releases because I can do a release for a single Minecraft version instead having to accumulate enough changes to justify a release for all supported versions."
+- PeepingTom-forge-1.20.1-1.6.jar - "Increased Spawnrate"
+- rightclickharvest-forge-4.5.3+1.20.1.jar - "Backport latest versions to 1.20.1!"
+- connectivity-1.20.1-7.1.jar - Fixes
+- SereneSeasons-forge-1.20.1-9.1.0.1.jar
+	"Backport of add year_round_crops Block and Item Tags, and Fix Forge Logo not showing up (#532)
+    Backport of add year_round_crops Block and Item Tags
+    Fix Logo not displaying on Forge
+    Build Updates
+    Push Loom to 1.10"
+- smoothchunk-1.20.1-4.1.jar - "Reduced vanilla lag on saving by skipping protochunk saving"
+- voicechat-forge-1.20.1-2.5.28.jar
+    "Save username cache asynchronously
+    Only store cached usernames that are necessary
+    Fixed issues with config reading
+    Fixed audio devices containing unicode characters not saving properly in some cases
+    Updated Chinese Simplified translation
+    Fixed create group screen text field size
+    Fixed join group password screen text field size
+    Added Persian translation"
+- soul-fire-d-forge-1.20.1-4.0.11.jar - "Add Korean localization."
+- waystones-forge-1.20.1-14.1.11.jar
+    "Moved JourneyMap waypoints two blocks up so you don't end up inside the waystone if you use JourneyMap's teleport feature
+    Fixed sorting not working correctly when you have more than 128 waystones activated"
+- watut-forge-1.20.1-1.2.3.jar - os ultimos changelogs foram fixes, a versão 1.2.0 introduziu uma nova gui dinamica
+    "New dynamic gui support for all guis including almost all modded guis.
+    See full detail of the open gui, getting updates twice a second
+    See items transferring between player and the open container with a visual of the item itself moving between them
+    Extensive set of configs to tweak it to your liking, with some new server side configs that are synced to clients.
+    Various bugfixes
+    Fix incompatibility with Better Ping Display that caused crashes."
+	
+- Better-Leaves-9.1.zip - Fixes e compatibility para outros mods
+
+
+## Mudanças
+
+- As versões do modpack passam a ter uma letra no fim se houver um hotfix em vez de underscore e mais um número. A versão vai tentar seguir o padrão de no primeiro ser a "Major" - caso haja uma grande mudança no modpack, segundo - mudanças, remover ou adicionar novos mods, terceiro - updates de mods e forge, assim como os fixes | Espero seguir este esquema :)
+- Weather2 - Passa a usar o "Vanilla Weather", em vez de criar sistemas de tempestades, estas acontecem quando o server disser que "Chove".
+- Para resolver a compatibilidade entre o mod ToughAsNails
+
+
+## Removido
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+## Problemas conhecidos
+
+- Embeddium/Rubidium - Nas settings a opção de search não está a funcionar
+- Sodium/Embeddium Extras e Embeddium Extra, embora façam coisas diferentes ambos tem opção de mostrar fps, escolham qual delas preferem para ver nas opções
+- Tough as nails mod - Para beber água a mão, shift + right click
+- Weather2 - Já sabem os shaders podem meter o mod meio estranho, principalmente com as snowstorms
+- Tough As Nails: A Curios Expansion - O slot para as insulation pads tem que ser usado manualmente, right click num insulation pad não o equipa, portanto arrastem :P
+- Areas - Entrar numa vila não está a mostrar o nome gerado aleatoriamente no ecrã, mas a sign existe

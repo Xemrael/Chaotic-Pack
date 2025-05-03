@@ -19,3 +19,7 @@ Yet to have an official image or logo, so have this instead:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/aa683709-6137-4838-9842-ce21b575aecf">
 </div>
+
+[**Changelogs**](https://xemrael.github.io/Chaotic-Pack/Changelogs.html)
+
+[**See Planned Changes**](https://xemrael.github.io/Chaotic-Pack/Planned%20to%20do.html)
