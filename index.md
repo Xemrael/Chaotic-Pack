@@ -21,4 +21,5 @@ Yet to have an official image or logo, so have this instead:
 </div>
 
 [**Changelogs**](https://xemrael.github.io/Chaotic-Pack/Changelogs/index.html)
+
 [**See Planned Changes**](https://xemrael.github.io/Chaotic-Pack/Planned%20to%20do.html)
