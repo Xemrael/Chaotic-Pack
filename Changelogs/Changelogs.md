@@ -11,3 +11,5 @@
 [**1.2.0**](https://xemrael.github.io/Chaotic-Pack/Changelogs/Changelog 1.2.0.html)
 
 [**1.2.0a**](https://xemrael.github.io/Chaotic-Pack/Changelogs/Changelog 1.2.0a.html)
+
+[**1.2.0b**](https://xemrael.github.io/Chaotic-Pack/Changelogs/Changelog 1.2.0b.html)
