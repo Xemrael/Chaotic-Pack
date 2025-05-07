@@ -1,4 +1,4 @@
-[**BACK**](https://xemrael.github.io/Chaotic-Pack/)
+[**BACK**](./)
 
 # Planned Changes
 
