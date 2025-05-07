@@ -1,3 +1,3 @@
-[**BACK**](https://xemrael.github.io/Chaotic-Pack/Changelogs/index.html)
+[**BACK**](./)
 
 # First ModPack Iteration
