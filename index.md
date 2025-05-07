@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 Nothing Special about this pack.
 
