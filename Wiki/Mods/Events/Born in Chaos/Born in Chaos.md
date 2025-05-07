@@ -1,4 +1,4 @@
-[**BACK**](../)
+[**BACK**](/)
 
 # The event features: 
 
