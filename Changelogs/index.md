@@ -1,4 +1,4 @@
-[**BACK**](https://xemrael.github.io/Chaotic-Pack/)
+[**BACK**](./)
 
 [**1.1.1**](https://xemrael.github.io/Chaotic-Pack/Changelogs/Changelog 1.1.1.html)
 
