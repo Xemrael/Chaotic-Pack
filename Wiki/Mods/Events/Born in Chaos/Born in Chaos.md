@@ -1,4 +1,4 @@
-[**BACK**](/)
+[**BACK**](https://xemrael.github.io/Chaotic-Pack/Changelogs/Changelog%201.2.0b.html)
 
 # The event features: 
 
