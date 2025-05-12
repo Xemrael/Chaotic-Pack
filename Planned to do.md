@@ -1,9 +1,13 @@
 [**BACK**](./)
 
 # Planned Changes
+
 ***
+
 > ***AutoModPack migration done.***
+
 ***
+
 ### Planned to add
 
   - [ ] [Move Boats](https://www.curseforge.com/minecraft/mc-mods/move-boats)
