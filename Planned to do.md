@@ -10,6 +10,13 @@
 
 ### Planned to add
 
+  - [x] [Item Split Bug Fix](https://www.curseforge.com/minecraft/mc-mods/item-split-bug-fix)
+  - [x] [Immersive Optimization](https://www.curseforge.com/minecraft/mc-mods/immersive-optimization)
+  - [x] [Flerovium](https://www.curseforge.com/minecraft/mc-mods/flerovium)
+  - [x] [Immersive Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/immersive-damage-indicators)
+  - [x] [Immersive Armor HUD](https://www.curseforge.com/minecraft/mc-mods/immersive-armor-hud)
+  - [x] [Mining Speed Tooltips](https://www.curseforge.com/minecraft/mc-mods/mining-speed-tooltips)
+  - [x] [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
   - [ ] [Move Boats](https://www.curseforge.com/minecraft/mc-mods/move-boats)
   - [ ] [Move Minecarts](https://www.curseforge.com/minecraft/mc-mods/move-minecarts)
   - [ ] [Bottled Air](https://www.curseforge.com/minecraft/mc-mods/bottled-air)
@@ -35,7 +42,6 @@
   - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
   - [Dynamic Trees for Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-for-immersive-weathering-soils)
   - [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)
-  - [Dynamic View (mostly server side)](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
   - [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
   - [Eyes of Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/eyes-of-ice-and-fire)
   - [Mythic Mounts](https://www.curseforge.com/minecraft/mc-mods/mythic-mounts-forge)
@@ -54,6 +60,7 @@
 - [x] [Concurrent Chunk Management Engine](https://www.curseforge.com/minecraft/mc-mods/c2me)
 - [ ] [Mobtimizations - Entity Performance Fixes](https://www.curseforge.com/minecraft/mc-mods/mobtimizations)
 - [x] [Noisium](https://www.curseforge.com/minecraft/mc-mods/noisium)
+- [x] [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
 
 ### Planned to remove
 
