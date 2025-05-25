@@ -17,3 +17,5 @@
 [**1.3.0**](https://xemrael.github.io/Chaotic-Pack/Changelogs/Changelog 1.3.0.html)
 
 [**1.3.1**](https://xemrael.github.io/Chaotic-Pack/Changelogs/Changelog 1.3.1.html)
+
+[**1.3.2**](https://xemrael.github.io/Chaotic-Pack/Changelogs/Changelog 1.3.2.html)
